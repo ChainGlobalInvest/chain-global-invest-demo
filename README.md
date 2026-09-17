@@ -5,12 +5,12 @@ Puedes probar el MVP y evaluar la herramienta directamente desde nuestro dominio
    🌐 **https://chainglobalinvest.com**
 
 # CHAIN GLOBAL INVEST
-## GovTech: B2G Decision Intelligence Engine for Public Investment in LATAM
+## GovTech: B2G Decision Intelligence Engine for Public Investment
 
 ---
  
 ### 🚀 Descripción Ejecutiva
-**CHAIN GLOBAL INVEST** es una plataforma GovTech diseñada para asistir a los gobiernos subnacionales de Latinoamérica, maximizando el impacto de sus inversiones en proyectos productivos. Posee una arquitectura de producto progresiva, actualmente se concentra en la fase 1: 
+**CHAIN GLOBAL INVEST** es una plataforma GovTech diseñada para asistir a los gobiernos subnacionales, maximizando el impacto de sus inversiones en proyectos productivos. Posee una arquitectura de producto progresiva, actualmente se concentra en la fase 1: 
 
 * **Fase 1 (B2G - Gobiernos):** Mejora la toma de decisiones y la priorización estratégica de recursos públicos. Permite a las autoridades evaluar y priorizar cadenas productivas, contribuyendo a reducir el riesgo de una asignación presupuestal ineficiente. De esta manera, guía la transformación hacia un mayor valor agregado. 
  
@@ -49,5 +49,5 @@ El motor transforma información territorial, productiva y socioeconómica en ra
 ---
  
 ### 👤 Autor
-* **Fundador y Desarrollador:** José Alan Párraga Condezo (Ingeniero Industrial - PUCP / Postgrado - UNMSM)
+* **Fundador y Desarrollador:** Alan Párraga (Ingeniero Industrial - PUCP / Postgrado - UNMSM)
 * **Plataforma:** Chain Global Invest
