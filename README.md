@@ -15,7 +15,7 @@ Puedes probar el MVP y evaluar la herramienta directamente desde nuestro dominio
 * **Fase 1 (B2G - Gobiernos):** Mejora la toma de decisiones y la priorización estratégica de recursos públicos. Permite a las autoridades evaluar y priorizar cadenas productivas, contribuyendo a reducir el riesgo de una asignación presupuestal ineficiente. De esta manera, guía la transformación hacia un mayor valor agregado. 
  
 **🎯 Estado Actual (MVP):** 
-Nuestro prototipo funcional se enfoca en el motor analítico de priorización (Fase 1). La base técnica se sustenta en una investigación de posgrado en la Universidad Nacional Mayor de San Marcos (UNMSM), la cual utiliza datos reales de una provincia del centro del Perú. Asimismo, integramos como modelo piloto la casuística del programa PROCOMPITE del Estado Peruano para modelar la realidad productiva de dicha jurisdicción. De esta manera, se puede evaluar y priorizar cadenas productivas mediante análisis multicriterio, proporcionando evidencia estructurada para apoyar decisiones de inversión pública. 
+Nuestro prototipo funcional se enfoca en el motor analítico de priorización (Fase 1). La base técnica se sustenta en una investigación de posgrado en la Universidad Nacional Mayor de San Marcos (UNMSM), la cual utiliza datos reales de una provincia del sur del Perú. Asimismo, integramos como modelo piloto la casuística del programa PROCOMPITE del Estado Peruano para modelar la realidad productiva de dicha jurisdicción. De esta manera, se puede evaluar y priorizar cadenas productivas mediante análisis multicriterio, proporcionando evidencia estructurada para apoyar decisiones de inversión pública. 
  
 ---
  
