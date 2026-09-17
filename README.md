@@ -20,7 +20,7 @@ Nuestro prototipo funcional se enfoca en el motor analítico de priorización (F
 ---
  
 ### 🔑 Características Principales
-* **Priorización Espacial Interactiva:** Interfaz de mapeo geográfico para la selección de zonas de decisión (piloto: Provincia de Andahuaylas, Apurímac).
+* **Priorización Espacial Interactiva:** Interfaz de mapeo geográfico para la selección de zonas de decisión (piloto: provincia del sur del Perú).
 * **Motor de Decisión AHP dinámico cíclico discreto:** Evaluación multicriterio basada en dimensiones Sociales, Organizacionales y Territoriales.
 * **Indicadores dinámicos:** Ranking y ponderación global para cadenas de valor (granos andinos, papas nativas, lácteos, etc.).
 * **Dashboard Ejecutivo:** Consolidación de métricas de consistencia global ($CR \le 0.10$) y análisis paramétrico por dimensión.
@@ -30,7 +30,7 @@ Nuestro prototipo funcional se enfoca en el motor analítico de priorización (F
 ### 🛠️ Arquitectura y Tecnologías
 * **Frontend y Despliegue:** Streamlit / Streamlit Community Cloud
 * **Procesamiento de Datos:** Python, Pandas
-* **Fuentes de datos para el MVP:** Registros oficiales del programa PROCOMPITE y datos históricos de proyectos productivos de la Provincia de Andahuaylas (Apurímac).
+* **Fuentes de datos para el MVP:** Registros oficiales del programa PROCOMPITE y datos históricos de proyectos productivos de la provincia de estudio.
 * **Motor de decisiones - Capa 1 (MVP actual):** Analytic Hierarchy Process (AHP) dinámico cíclico discreto mediante la Técnica de Agregación de Prioridades Individuales.
 * **Analytics:** ranking, ponderaciones globales, análisis de consistencia y análisis paramétrico.
 * **Selección territorial:** interactiva.
